@@ -1,0 +1,15 @@
+
+body {
+    margin: 0; 
+    background-color: crimson;
+}
+
+#chat-stream {
+    display: flex; 
+    align-items: flex-end; 
+    height: 50vh; 
+}
+
+#compose {
+    /* height: 50vh;  */
+}
